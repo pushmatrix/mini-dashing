@@ -1043,7 +1043,7 @@ var prepareString = "a"[0] != "a",
 
   Batman.config = {
     pathPrefix: '/',
-    viewPrefix: '/views',
+    viewPrefix: 'views',
     fetchRemoteViews: true,
     usePushState: false,
     minificationErrors: true
